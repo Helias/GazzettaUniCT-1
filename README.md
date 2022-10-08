@@ -1,6 +1,8 @@
 # GazzettaUniCT
 [![Go Report Card](https://goreportcard.com/badge/github.com/Herbrant/GazzettaUniCT)](https://goreportcard.com/report/github.com/Herbrant/GazzettaUniCT)
 
+PROGETTO ARCHIVIATO ➡️ https://github.com/UNICT-DMI/Gazzetta-UNICT
+
 Questo progetto consiste nella realizzazione di un software che permetta di ripubblicare in un canale Telegram tutti i verbali degli organi superiori universitari studenteschi, ovvero:
 
 - 🟡 Senato Accademico
